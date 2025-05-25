@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-const maxData = 1000000
+const maxData int = 1000000
 
 type DataPolusi struct {
 	Lokasi        string
